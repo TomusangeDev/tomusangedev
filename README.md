@@ -1,15 +1,15 @@
 
 Hi, I'm <b>Tomusange Dev</b>
 
-I'm currently learning *JavaScript*
+I'm currently learning <b>JavaScript</b>
 
-I’m confident with *HTML*, *CSS*, and *Bootstrap 5*
+I’m confident with <b>HTML</b>, <b>CSS</b>, and <b>Bootstrap 5</b>
 
 I’m building projects to practice full-stack development
 
 ---
 
-*Skills*
+<b>Skills</b>
 - HTML5
 - CSS3
 - Bootstrap 5
@@ -17,17 +17,17 @@ I’m building projects to practice full-stack development
 
 ---
 
-*My Goals*
+<b>My Goals</b>
 - Build real-world JS apps
 - Learn React and Node.js
 - Contribute to open source
 
 ---
 
-Reach Me
+<b>Reach Me</b>
 - GitHub: [Tomusange Dev](https://github.com/TomusangeDev)
 - Email: [profelixsnow](profelixsnow@gmail.com)
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<div style="background-color: #f3f3f2; padding: 20px;"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></div>div>
