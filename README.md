@@ -30,4 +30,4 @@ I’m building projects to practice full-stack development
 
 ---
 
-<div style="background-color: #f3f3f3; padding: 20px;"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></div>
+<div style="background-color: #333; padding: 20px;"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></div>
