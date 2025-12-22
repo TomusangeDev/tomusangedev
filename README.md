@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**TomusangeDev/tomusangedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm *Tomusange Dev*
 
-Here are some ideas to get you started:
+I'm currently learning *JavaScript*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m confident with *HTML*, *CSS*, and *Bootstrap 5*
+
+I’m building projects to practice full-stack development
+
+---
+
+*Skills*
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript (learning)
+
+---
+
+*My Goals*
+- Build real-world JS apps
+- Learn React and Node.js
+- Contribute to open source
+
+---
+
+Reach Me
+- GitHub: [Tomusange Dev](https://github.com/TomusangeDev)
+- Email: [profelixsnow](profelixsnow@gmail.com)
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
