@@ -1,5 +1,5 @@
 
-Hi, I'm #Tomusange Dev
+Hi, I'm <b>Tomusange Dev</b>
 
 I'm currently learning *JavaScript*
 
