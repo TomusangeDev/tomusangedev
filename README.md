@@ -1,5 +1,5 @@
 
-Hi, I'm <b>Tomusange Dev</b>
+## Hi, I'm Tomusange Dev
 
 I'm currently learning <b>JavaScript</b>
 
@@ -9,7 +9,7 @@ I’m building projects to practice full-stack development
 
 ---
 
-<b>Skills</b>
+## Skills
 - HTML5
 - CSS3
 - Bootstrap 5
@@ -17,17 +17,17 @@ I’m building projects to practice full-stack development
 
 ---
 
-<b>My Goals</b>
+## My Goals
 - Build real-world JS apps
 - Learn React and Node.js
 - Contribute to open source
 
 ---
 
-<b>Reach Me</b>
+## Reach Me
 - GitHub: [Tomusange Dev](https://github.com/TomusangeDev)
 - Email: [profelixsnow](mailto:profelixsnow@gmail.com)
 
 ---
 
-_<b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b>_
+## _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
