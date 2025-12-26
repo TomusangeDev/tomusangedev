@@ -26,7 +26,7 @@ I’m building projects to practice full-stack development
 
 ## Reach Me
 - GitHub: [Tomusange Dev](https://github.com/TomusangeDev)
-- Email: [profelixsnow](mailto:profelixsnow@gmail.com)
+- Email: [tomusangedev@gmail.com](mailto:tomusangedev@gmail.com)
 
 ---
 
