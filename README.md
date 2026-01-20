@@ -1,9 +1,8 @@
-
 ## Hi, I'm Tomusange Dev
 
-I'm currently learning <b>JavaScript</b>
+I'm currently learning **JavaScript & Tailwindcss**
 
-I’m confident with <b>HTML</b>, <b>CSS</b>, and <b>Bootstrap 5</b>
+I’m confident with **HTML & CSS**
 
 I’m building projects to practice full-stack development
 
@@ -13,7 +12,9 @@ I’m building projects to practice full-stack development
 - HTML5
 - CSS3
 - Bootstrap 5
+- MySQL DB
 - JavaScript (learning)
+- Tailwindcss (learning)
 
 ---
 
@@ -30,4 +31,4 @@ I’m building projects to practice full-stack development
 
 ---
 
-## _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+**“Code is like humor. When you have to explain it, it’s bad.” – _Cory House_**
