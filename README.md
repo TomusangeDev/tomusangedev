@@ -32,4 +32,4 @@ I’m building projects to practice full-stack development
 
 ---
 
-**“Code is like humor. When you have to explain it, it’s bad.” – _Cory House_**
+**“Code is like humor. When you have to explain it, it’s bad.**” – [Cory House](https://medium.com/@itami9997/code-is-like-humor-when-you-have-to-explain-it-its-bad-cory-house-429facbd634a)
